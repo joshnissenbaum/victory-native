@@ -39,7 +39,7 @@
     "prop-types": "^15.5.10",
     "react-fast-compare": "^2.0.0",
     "victory-area": "^30.3.0",
-    "victory-axis": "^30.3.0",
+    "victory-axis": "https://github.com/dan1one/victory-axis",
     "victory-bar": "^30.3.0",
     "victory-box-plot": "^30.3.0",
     "victory-brush-container": "^30.3.0",
